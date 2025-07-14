@@ -1,6 +1,8 @@
 
 # find.pl - Powerful Perl-Based File Search Utility
 
+[![GitHub License](https://img.shields.io/github/license/tclahr/find.pl?color=blue)](https://github.com/tclahr/find.pl/blob/main/LICENSE)
+
 **`find.pl`** is a lightweight, flexible, and powerful command-line utility written in Perl that replicates and extends the behavior of Unix's native `find` command. With support for symbolic link traversal, depth-limited search, advanced expression parsing, and file metadata inspection, it's ideal for power users, sysadmins, and developers needing fine-grained control over file discovery tasks.
 
 ## 📖 Overview
