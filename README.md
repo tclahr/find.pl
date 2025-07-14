@@ -67,10 +67,6 @@ perl find.pl . -path "*.git*" -prune -o -print
 - Compatible with Unix-like environments (Linux, macOS, BSD)
 - No external dependencies (pure Perl)
 
-## 📜 License
-
-This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -82,3 +78,7 @@ Contributions are welcome!
 5. Open a pull request
 
 If you'd like to suggest improvements or report bugs, feel free to [open an issue](https://github.com/your-username/your-repo/issues).
+
+## 📜 License
+
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
